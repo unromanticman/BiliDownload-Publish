@@ -1,2 +1,2 @@
 # BiliDownload-Publish
-BiliDownload B佔資源下載器打包版
+BiliDownload B站資源下載器打包版
